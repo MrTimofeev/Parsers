@@ -27,7 +27,7 @@
 
 2. Запустите скрипт:
    ```bash
-   python paeser_mangalib_api.py
+   python parser_mangalib_api.py
    ```
 
 4. Результаты будут сохранены в файл `manga_page_1.json`.
