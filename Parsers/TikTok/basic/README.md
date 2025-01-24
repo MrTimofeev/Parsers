@@ -8,7 +8,7 @@
 2. Клонируйте репозиторий (если вы используете Git):
    ```bash
    git clone https://github.com/MrTimofeev/Parsers.git
-   cd tiktok-video-downloader
+   cd TikTok/basic
    ```
 3. Установите зависимости:
    ```bash
