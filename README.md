@@ -37,13 +37,13 @@ python название_файла.py
 Вот список доступных парсеров:
 
 ### TikTok
-- **[parser_tiktok_v1](./src/Parsers/TikTok/basic/README.md)** — Синхронный парсер для скачивания видео с TikTok с использованием Selenium и reqests.
-- **[parser_tiktok_v2](./src/Parsers/TikTok/aync_selenium_request/README.md)** — Асинхронный парсер для скачивания видео с TikTok с использованием Selenium и reqests.
-- **[parser_tiktok_v3](./src/Parsers/TikTok/async_playwrigth_aiohttp/README.md)** — Асинхронный парсер для скачивания видео с TikTok с использованием Playwright и aiohttp.
+- **[parser_tiktok_v1](./Parsers/TikTok/basic/README.md)** — Синхронный парсер для скачивания видео с TikTok с использованием Selenium и reqests.
+- **[parser_tiktok_v2](./Parsers/TikTok/aync_selenium_request/README.md)** — Асинхронный парсер для скачивания видео с TikTok с использованием Selenium и reqests.
+- **[parser_tiktok_v3](./Parsers/TikTok/async_playwrigth_aiohttp/README.md)** — Асинхронный парсер для скачивания видео с TikTok с использованием Playwright и aiohttp.
 
 ### Mangalib
-- **[parser_mangalib_v1](./src/Parsers/mangalib/selenium/README.md)** — Синхронный парсер для сбора последних обновлений с mangalib с использованием selenium который напряму обращается к неофициальному api.
-- **[parser_mangalib_v2](./src/Parsers/mangalib/undetected_chromedriver/README.md)** — Синхромнный парсер для сбора последних обновлений с mangalib с использование undetected_chromedriver который парсит html.
+- **[parser_mangalib_v1](./Parsers/mangalib/selenium/README.md)** — Синхронный парсер для сбора последних обновлений с mangalib с использованием selenium который напряму обращается к неофициальному api.
+- **[parser_mangalib_v2](./Parsers/mangalib/undetected_chromedriver/README.md)** — Синхромнный парсер для сбора последних обновлений с mangalib с использование undetected_chromedriver который парсит html.
 
 ## Важное предупреждение
 
