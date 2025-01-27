@@ -1,4 +1,4 @@
-# TikTok Video Downloader
+# Mangalib new manga parser
 
 Этот скрипт позволяет парсить последние обновления манги с сайта Mangalib обращаясь к неофициальному api, для парсинга используем selenium
 

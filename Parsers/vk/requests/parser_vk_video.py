@@ -32,5 +32,5 @@ print(cleaned_urls[0])
 
 third_response = requests.get(url=cleaned_urls[0], headers=headers)
 
-with open("test.mp4", "wb") as file:
+with open("video.mp4", "wb") as file:
         file.write(third_response.content)
